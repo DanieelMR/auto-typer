@@ -28,3 +28,8 @@ desktop.ini
 
 # Logs
 *.log
+
+# Archivos internos de desarrollo
+CREAR_EJECUTABLE.md
+SETUP_GIT.md
+build_*.bat
