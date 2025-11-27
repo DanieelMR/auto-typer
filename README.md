@@ -39,7 +39,7 @@ python auto_typer.py
 ```
 
 ---
-
+ 
 ## 📖 Guía de Uso
 
 1. Abre la aplicación
